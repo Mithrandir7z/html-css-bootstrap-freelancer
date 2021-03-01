@@ -1,3 +1,4 @@
+/*INIZIO COMMON*/
 .nopadding {
     padding: 0 !important;
     margin: 0 !important;
@@ -7,7 +8,11 @@
     height: 200px;
     background-color: coral;
 }
+/*FINE COMMON*/
 
+
+
+/*INIZIO HEADER*/
 .menu-right ul {
     text-align: right;
     list-style-type: none;
@@ -27,4 +32,17 @@
 
 header {
     background-color: #2C3E50;
+}
+/*FINE HEADER*/
+
+
+.wrapper-profile {
+    background-color: #1ABC9C;
+    height: 500px;
+    text-align: center;
+}
+
+.profile {
+    padding-top: 100px;
+    color: white;
 }
