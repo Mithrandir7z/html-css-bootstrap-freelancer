@@ -50,6 +50,7 @@ header {
 
 .special-character {
     text-align: center;
+    margin-bottom: 40px;
 }
 
 /*INIZIO TILES*/
@@ -85,16 +86,50 @@ header {
 
 
 
-/*INIZIO ABOUT CONTACT ME*/
+/*INIZIO ABOUT ME*/
 .center {
     text-align: center;
 }
 
-.about-contact_me {
+.centratura {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#about-me {
     background-color: #1ABC9C;
     margin-top: 50px;
     margin-bottom: 50px;
     padding-bottom: 30px;
     color: white;
 }
-/*FINE ABOUT CONTACT ME*/
+
+.text1 , .text2 {
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+/*FINE ABOUT ME*/
+
+
+
+/*INIZIO CONTACT ME*/
+.wrapper-contact-me {
+    padding: 80px;
+}
+/*FINE CONTACT ME*/
+
+
+
+/*INIZIO FOOTER*/
+.footer-top {
+    background-color: #3A546D;
+    color: white;
+    padding: 60px;
+}
+
+.footer-bottom {
+    background-color: #2C3E50;
+    color: white;
+    padding: 30px;
+}
+/*FINE FOOTER*/
