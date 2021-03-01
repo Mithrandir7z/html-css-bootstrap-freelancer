@@ -6,7 +6,6 @@
 
 .debug {
     height: 200px;
-    background-color: coral;
 }
 /*FINE COMMON*/
 
@@ -46,3 +45,56 @@ header {
     padding-top: 100px;
     color: white;
 }
+
+
+
+.special-character {
+    text-align: center;
+}
+
+/*INIZIO TILES*/
+
+.col-inner {
+    padding-top: 10px;
+}
+
+.red-tile {
+    background-color: #BA4B63;
+}
+
+.heavenly-tile {
+    background-color: #1EA4B6;
+}
+
+.black-tile {
+    background-color: black;
+}
+
+.cyan-tile {
+    background-color: #1C83C1;
+}
+
+.blue-tile {
+    background-color: #0E38B5;
+}
+
+.brown-tile {
+     background-color: #CCB2A3;
+}
+/*FINE TILES*/
+
+
+
+/*INIZIO ABOUT CONTACT ME*/
+.center {
+    text-align: center;
+}
+
+.about-contact_me {
+    background-color: #1ABC9C;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+    color: white;
+}
+/*FINE ABOUT CONTACT ME*/
