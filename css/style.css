@@ -1,0 +1,30 @@
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+ }
+
+.debug {
+    height: 200px;
+    background-color: coral;
+}
+
+.menu-right ul {
+    text-align: right;
+    list-style-type: none;
+}
+
+.menu-right li {
+    display: inline-block;
+    margin-left: 20px;
+    line-height: 15px;
+}
+
+.wrapper-menu-left, .wrapper-menu-right {
+    background-color: #2C3E50;
+    color: white;
+    padding: 20px;
+}
+
+header {
+    background-color: #2C3E50;
+}
