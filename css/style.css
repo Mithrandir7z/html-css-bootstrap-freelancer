@@ -70,7 +70,6 @@ header {
 }
 
 
-
 .special-character {
     text-align: center;
     margin-bottom: 40px;
@@ -82,28 +81,17 @@ header {
     padding-top: 10px;
 }
 
-.red-tile {
-    background-color: #BA4B63;
+.image-centered {
+    height: 200px;
+    width: auto;
 }
 
-.heavenly-tile {
-    background-color: #1EA4B6;
+.push-left {
+    padding-left: 50px;
 }
 
-.black-tile {
-    background-color: black;
-}
-
-.cyan-tile {
-    background-color: #1C83C1;
-}
-
-.blue-tile {
-    background-color: #0E38B5;
-}
-
-.brown-tile {
-     background-color: #CCB2A3;
+.radius img {
+    border-radius: 7px;
 }
 /*FINE TILES*/
 
