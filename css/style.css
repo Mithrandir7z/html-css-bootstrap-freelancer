@@ -32,6 +32,12 @@
 header {
     background-color: #2C3E50;
 }
+
+.burger-menu {
+    color: white;
+    padding-top: 20px;
+}
+
 /*FINE HEADER*/
 
 
@@ -44,6 +50,23 @@ header {
 .profile {
     padding-top: 100px;
     color: white;
+}
+
+.profile img {
+    height: 200px;
+    width: auto;
+}
+
+#description {
+    margin-top: 20px;
+    font-size: 14px;   
+}
+
+/*ICONA STAR*/
+
+.fa-star {
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 
