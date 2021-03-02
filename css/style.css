@@ -42,9 +42,12 @@ header {
 
 
 .wrapper-profile {
-    background-color: #1ABC9C;
     height: 500px;
     text-align: center;
+}
+
+.color {
+    background-color: #1ABC9C;
 }
 
 .profile {
@@ -82,8 +85,8 @@ header {
 }
 
 .image-centered {
-    height: 200px;
-    width: auto;
+    height: auto;
+    width: 360px;
 }
 
 .push-left {
@@ -115,9 +118,24 @@ header {
     color: white;
 }
 
+.wrapper-text-1 {
+    padding-left: 100px;
+    padding-right: 0;
+}
+
+.wrapper-text-2 {
+    padding-right: 100px;
+    padding-left: 0;
+}
+
 .text1 , .text2 {
     margin-bottom: 40px;
     margin-top: 20px;
+}
+
+.btn-default {
+    background-color: #1ABC9C;
+    color: white;
 }
 /*FINE ABOUT ME*/
 
@@ -132,10 +150,18 @@ header {
 
 
 /*INIZIO FOOTER*/
-.footer-top {
+.color-footer {
+    background-color: #3A546D;
+}
+
+.wrapper-footer {
     background-color: #3A546D;
     color: white;
     padding: 60px;
+}
+
+.color-footer-bottom {
+    background-color: #2C3E50;
 }
 
 .footer-bottom {
