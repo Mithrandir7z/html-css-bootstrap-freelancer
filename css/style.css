@@ -7,6 +7,18 @@
 .debug {
     height: 200px;
 }
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.left {
+    text-align: left;
+}
 /*FINE COMMON*/
 
 
@@ -101,9 +113,6 @@ header {
 
 
 /*INIZIO ABOUT ME*/
-.center {
-    text-align: center;
-}
 
 .centratura {
     padding-left: 20px;
@@ -119,12 +128,10 @@ header {
 }
 
 .wrapper-text-1 {
-    padding-left: 100px;
     padding-right: 0;
 }
 
 .wrapper-text-2 {
-    padding-right: 100px;
     padding-left: 0;
 }
 
@@ -158,6 +165,18 @@ header {
     background-color: #3A546D;
     color: white;
     padding: 60px;
+}
+
+.logo-social {
+    border-radius: 65%;
+    border: solid white 1px;
+    display: inline-block;
+    padding: 11px;
+    width: 43px;
+}
+
+.wrapper-footer span {
+    color: lightseagreen;
 }
 
 .color-footer-bottom {
